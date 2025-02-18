@@ -9,7 +9,7 @@
 </head>
 <body>
 <%
-String URL = "jdbc:mysql://localhost:3309/sprong5fs";
+String URL = "jdbc:mysql://localhost:3309/spring5fs";
 //Connection conn = null;
 Class.forName("com.mysql.cj.jdbc.Driver");
 System.out.println("드라이버 로딩~");
